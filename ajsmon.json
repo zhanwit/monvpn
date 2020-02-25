@@ -1,5 +1,5 @@
 {
-"Version":"2.1",
+"Version":"1.9",
 "Url":"https://github.com/zhanwit/monvpn/raw/master/monk.zip" ,
 "Changelog":"
            อัพเดทไฟล์ล่าสุด 25/02/63 
@@ -27,7 +27,7 @@
                 
 ",
 
-"latestVersion": "1.0.1",
+"latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
